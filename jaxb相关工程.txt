@@ -7,3 +7,5 @@ https://github.com/adirkuhn/iec61970
 
 搜索关键字
 jaxb xmlschema database
+
+https://stackoverflow.com/questions/8549017/convert-xml-to-database-with-java
