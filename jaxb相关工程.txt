@@ -9,3 +9,4 @@ https://github.com/adirkuhn/iec61970
 jaxb xmlschema database
 
 https://stackoverflow.com/questions/8549017/convert-xml-to-database-with-java
+https://stackoverflow.com/questions/545145/map-xml-structure-to-database-schema
