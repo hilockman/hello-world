@@ -1,5 +1,6 @@
 xml序列化与数据库持久化兼容：
 https://github.com/highsource/hyperjaxb3
+http://wiki.eclipse.org/EclipseLink/Examples/MOXy/JPA
 
 cim：
 https://github.com/adirkuhn/iec61970
