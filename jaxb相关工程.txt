@@ -4,3 +4,6 @@ http://wiki.eclipse.org/EclipseLink/Examples/MOXy/JPA
 
 cim：
 https://github.com/adirkuhn/iec61970
+
+搜索关键字
+jaxb xmlschema database
