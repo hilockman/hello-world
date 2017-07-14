@@ -1,1 +1,5 @@
+xml序列化与数据库持久化兼容：
 https://github.com/highsource/hyperjaxb3
+
+cim：
+https://github.com/adirkuhn/iec61970
